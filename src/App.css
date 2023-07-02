@@ -1,3 +1,31 @@
+body {
+  background-color: #f0f8fa;
+}
+
+p {
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+input {
+  width: 200px;
+  height: 25px;
+  text-align: left;
+}
+
+button {
+  width: 200px;
+  height: 25px;
+  color: rgb(79, 76, 76);
+  font-weight: bold;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
 .App {
   text-align: center;
 }
